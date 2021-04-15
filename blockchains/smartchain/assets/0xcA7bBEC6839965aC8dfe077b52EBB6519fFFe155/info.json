@@ -1,0 +1,12 @@
+{
+    "name": "DxChain Token",
+    "website": "https://bsc.dxchain.com",
+    "description": "World's first decentralized big data and machine learning network powered by a computing-centric blockchain",
+    "explorer": "https://bscscan.com/token/0xcA7bBEC6839965aC8dfe077b52EBB6519fFFe155",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "DX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcA7bBEC6839965aC8dfe077b52EBB6519fFFe155"
+}
